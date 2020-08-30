@@ -1,4 +1,5 @@
 // 6.Divide an integer without using / operator
+// a- dividend & b-divisor
 #include<stdio.h>
 #include<math.h>
 
